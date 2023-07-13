@@ -244,3 +244,12 @@ body {
 .fw-bold {
   font-weight: var(--fw-bold);
 }
+
+.attribution {
+  text-align: center;
+}
+.attribution > * {
+  text-decoration: none;
+  color: gray;
+  opacity: 0.7;
+}
